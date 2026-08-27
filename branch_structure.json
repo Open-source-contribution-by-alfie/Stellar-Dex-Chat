@@ -1,0 +1,18 @@
+{
+  "default_branch": "main",
+  "branches": [
+    "alfred-impl",
+    "main",
+    "origin"
+  ],
+  "parent": {
+    "alfred-impl": "main",
+    "main": null,
+    "origin": "main"
+  },
+  "order": [
+    "main",
+    "alfred-impl",
+    "origin"
+  ]
+}
